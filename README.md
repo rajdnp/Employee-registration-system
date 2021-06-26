@@ -1,1 +1,1 @@
-# Employee-registration-system
+# Employee-registration-system using Angular and LocalStorage
